@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>icon/24px/传感器/土壤温度选中</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon/24px/传感器/土壤温度选中" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M8,14 C10.4852814,14 12.5,11.9852814 12.5,9.5 C12.5,7.87921865 11.1309739,5.31229468 8.39884443,1.69846539 L8,1.17090778 L7.60115557,1.69846539 C4.86902612,5.31229468 3.5,7.87921865 3.5,9.5 C3.5,11.9852814 5.51471863,14 8,14 Z M11.5,9.5 C11.5,11.4329966 9.93299662,13 8,13 C6.06700338,13 4.5,11.4329966 4.5,9.5 C4.5,8.24479935 5.66498727,5.9945616 8,2.8350004 C10.3350127,5.9945616 11.5,8.24479935 11.5,9.5 Z" id="椭圆形" fill="#FFFFFF" fill-rule="nonzero"></path>
+        <rect id="矩形" fill="#FFFFFF" x="1" y="7.5" width="2.5" height="1" rx="0.5"></rect>
+        <rect id="矩形复制-3" fill="#FFFFFF" x="12.5" y="7.5" width="2.5" height="1" rx="0.5"></rect>
+        <rect id="矩形复制" fill="#FFFFFF" x="1" y="10" width="2" height="1" rx="0.5"></rect>
+        <rect id="矩形复制-4" fill="#FFFFFF" x="13" y="10" width="2" height="1" rx="0.5"></rect>
+        <rect id="矩形复制-2" fill="#FFFFFF" x="1" y="12.5" width="3" height="1" rx="0.5"></rect>
+        <rect id="矩形复制-5" fill="#FFFFFF" x="12" y="12.5" width="3" height="1" rx="0.5"></rect>
+        <circle id="椭圆形" fill="#FFFFFF" cx="8" cy="9.5" r="2"></circle>
+    </g>
+</svg>

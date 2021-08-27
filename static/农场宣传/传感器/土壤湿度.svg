@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>icon/16px/传感器/土壤湿度</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon/16px/传感器/土壤湿度" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="温度_fill" fill="#000000" fill-rule="nonzero" opacity="0">
+            <g id="编组">
+                <rect id="矩形" x="0" y="0" width="16" height="16"></rect>
+            </g>
+        </g>
+        <g id="土壤湿度" fill="#000000" fill-rule="nonzero" opacity="0">
+            <g id="编组">
+                <rect id="矩形" x="0" y="0" width="16" height="16"></rect>
+            </g>
+        </g>
+        <path d="M8,13.5 C10.209139,13.5 12,11.709139 12,9.5 C12,8.02724067 10.6666667,5.52724067 8,2 C5.33333333,5.52724067 4,8.02724067 4,9.5 C4,11.709139 5.790861,13.5 8,13.5 Z" id="椭圆形" stroke="#009688"></path>
+        <rect id="矩形" fill="#009688" x="1" y="7.5" width="2.5" height="1" rx="0.5"></rect>
+        <rect id="矩形复制-3" fill="#009688" x="12.5" y="7.5" width="2.5" height="1" rx="0.5"></rect>
+        <rect id="矩形复制" fill="#009688" x="1" y="10" width="2" height="1" rx="0.5"></rect>
+        <rect id="矩形复制-4" fill="#009688" x="13" y="10" width="2" height="1" rx="0.5"></rect>
+        <rect id="矩形复制-2" fill="#009688" x="1" y="12.5" width="3" height="1" rx="0.5"></rect>
+        <rect id="矩形复制-5" fill="#009688" x="12" y="12.5" width="3" height="1" rx="0.5"></rect>
+        <circle id="椭圆形" fill="#009688" cx="8" cy="9.5" r="2"></circle>
+    </g>
+</svg>
